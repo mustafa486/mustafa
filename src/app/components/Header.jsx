@@ -7,6 +7,8 @@ export default function Header() {
       <nav className="space-x-6">
         <Link href="/">Home </Link>
         <Link href="/about">About</Link>
+        <Link href="/products">Products</Link>
+        <Link href="/posts">Posts</Link>
         <Link href="/contact">Contact</Link>
       </nav>
     </header>
